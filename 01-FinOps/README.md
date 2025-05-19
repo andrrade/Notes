@@ -1,0 +1,1 @@
+https://learn.finops.org/introduction-to-finops

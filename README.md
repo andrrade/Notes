@@ -1,2 +1,2 @@
 # Notes
-This repo contains some notes from my studies
+This repo includes study notes written in English as a way to practice and improve the language.
